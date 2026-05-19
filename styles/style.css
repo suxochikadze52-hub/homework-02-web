@@ -1,0 +1,45 @@
+.cv {
+  text-align: center;
+  font-size: 48px;
+}
+
+.myprofile {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.myname {
+  text-align: center;
+}
+
+.myinfo {
+  font-size: 20px;
+}
+
+.skills-languages {
+  font-size: 20px;
+}
+
+.skills-languages-container {
+  background-color: aqua;
+}
+
+.experience {
+  font-size: 20px;
+}
+
+.experience-container {
+  background-color: aqua;
+}
+
+.about-me-container {
+  background-color: aqua;
+}
+
+#marker {
+  background-color: yellow;
+}
